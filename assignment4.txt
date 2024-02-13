@@ -1,0 +1,24 @@
+1. makeblastdb -in /Users/nathalieyanes/Desktop/mystery_transcripts.fasta -dbtype nucl -out /Users/nathalieyanes/Desktop/mystery_nt_db
+
+2. makeblastdb -in /Users/nathalieyanes/Desktop/mystery_proteins.fasta -dbtype prot -out /Users/nathalieyanes/Desktop/mystery_pro_db
+
+3. blastn -db /Users/nathalieyanes/Desktop/mystery_nt_db -query /Users/nathalieyanes/Desktop/mystery_nucleotide_query.fasta -evalue 1e-3 -max_hsps 5 -out /Users/nathalieyanes/Desktop/mystery_search.txt -outfmt 7
+
+4. T010027234997, T010003453160, and T0100272334995
+
+5. awk '$3 > 90{print}' mystery_search.txt | awk '{print$2,$3}' >> most_similar.txt
+
+6. blastp -db /Users/nathalieyanes/Desktop/mystery_pro_db -query /Users/nathalieyanes/Desktop/mystery_protein_query.fasta -evalue 1e-5 -max_hsps 15 -out /Users/nathalieyanes/Desktop/mystery_pro_search.txt -outfmt 7
+
+7. P010027090796, P010027090798, P010027073865, P010027077695
+
+8. Coffea arabica
+
+9. Gardenia jasminoides 
+
+10. putative catalase 
+
+
+
+
+
