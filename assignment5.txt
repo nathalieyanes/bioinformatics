@@ -1,0 +1,7 @@
+3. muscle -in infile.fasta -seqtype protein -maxiters 16 -maxmb 30000000 -hydro 5 -hydrofactor 1.2 -log logfile.txt -weight1 clustalw -distance1 kmer6_6 -cluster1 upgmb -sueff 0.1 -root1 pseudo -maxtrees 1 -weight2 clustalw -distance2 pctidkimura -cluster2 upgmb -sueff 0.1 -root2 pseudo -objscore sp -noanchors -out output.fasta 
+
+raxmlHPC-HYBRID-AVX -T 4 -s infile -N autoMRE -n result -f a -p 12345 -x 12345 -m PROTCATJTT 
+
+4. Dobsonia, Cynopterus, Epomophorus, Rousettus, Syconycteris 
+
+5. A phylogeny can be useful especially considering covid 19 virology and quick evolution over the past few years. We can compare sequences from original strains to new strains and determine whether they are completely new strains from original common ancestor of covid 19 and new strain, or whether the new strains originated from covid 19. 
