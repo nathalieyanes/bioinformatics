@@ -11,4 +11,4 @@ mv transcriptome.fasta bioinformatics
 cd /Users/nathalieyanes/Desktop/bioinformatics/
 mv transcriptome.fasta learning_bash
 cd /Users/nathalieyanes/Desktop/bioinformatics/learning_bash
-grep -c "XM" transcriptome.fasta > fasta_count.txt
+grep -c ">" transcriptome.fasta > fasta_count.txt
