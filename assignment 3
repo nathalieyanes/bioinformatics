@@ -1,6 +1,6 @@
 #!/bin/bash
 cd desktop
-sed '/Zoo/d' pandas.txt > panda_zoos.txt 
+sed '/Zoo/Id' pandas.txt > panda_zoos.txt
 
 awk '{print $1,$4,$2}' pandas.txt > sorted_pandas.txt
 sort -k3 sorted_pandas.txt -o sorted_pandas.txt
