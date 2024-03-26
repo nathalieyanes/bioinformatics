@@ -1,0 +1,25 @@
+1. There are 15 different BRCA2 splice variants.
+2. There are 27 exons in the longest splice variant. 
+3.  
+4. This gene is on chromosome 13. 
+5. The gene synonyms are BRCC2, FACD, FAD, FAD1, FANCD, FANCD1, XRCC11. 
+6. There is 1 ortholog of human BRCA2 gene found in african ostrich. 
+7. GCTCCTGGTTGTCTACCCATGGACCCAGAGGTTCTTTGACAGCTTTGGCAACCTGTCCTC
+TGCCTCTGCCATCATGGGCAACCCCAAAGTCAAGGCACATGGCAAGAAGGTGCTGACTTC
+CTTGGGAGATGCCACAAAGCACCTGGATGATCTCAAGGGCACCTTTGCCCAGCTGAGTGA
+ACTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAG 
+8.122 base pairs is the length of the first intron.
+9.There are 723 pseudogenes in the narwhal genome. 
+
+10. On the left it's ZARIL, and on the right it is N4BP2L1. 
+11. On the left it's rnf32, and on the right it is rbm33a. 
+12. There is only 1 copy. 
+13. There are 2 copies. 
+
+14. There are 17 genomes for the bos taurus. 
+15. 8 of these 17 genomes are sequenced at the chromosome level. 
+16. The bos taurus have 29 chromosomes also excluding the mitochondrial chromosome. 
+17.Chromosome 1 is the longest one. 
+18. There are 1,115 miRNAs that are annotated. 
+19. Morimoto et al, 2020, ASC-deficiency impairs host defense against Aeromonas hydrophila infection in Japanese medaka, Oryzias latipes, Fish and Shelfish Immunology, 10.1016/j.fsi.2020.07.027
+20. atggacc tgctggccaa agcatctgtg ctgctgttgc tgctcctgag cctcagcaac gctcaaactg acaatatgga ggaagcagaa aacggttcat caaaggagga aatagacgag tctgaactgg aggacgtgtc ctccatcatc ttcagaatga acaacaactc tatggaggaa ctgttggaag gagatcttgt tcttcccaaa accaggaatg ccatgaagtg ctttggcgct ccagatagct gccgctggcc aaagtcttcc aatggcatcg tgaaggttcc ttatgtggtt agcgacaact atgaaagtga cgagaaggaa accattcgga acgccatgaa ggagtttgca gaaaaaacct gcattcactt tgttcctcgc aacaatgaga gggcctacct gagccttgaa cccagatttg gctgcaagtc tatgatgggc tatgttggtg acaaacaagt ggtggtgctt cagcggtttg gctgcataaa gcacgccgtc atccagcatg agctcctgca tgctctgggt ttctaccacg agcacactcg gagcgaccgc gaccagcatg taaaaatcaa ctgggaaaac atcattaaag atttcacaca caactttgat aagaatgata ccgacaatct gggcaccccg tatgactatg gctccatcat gcactatgga agaactgcct ttggaaaaga cagaaaggag accataaccc ccatccctaa ccccaaagct gccattggcc aaacagagag gatgtcggac atcgatatac ttcgagtcaa taagctttac aaatgttga 
