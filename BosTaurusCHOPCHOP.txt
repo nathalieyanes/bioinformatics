@@ -1,0 +1,5 @@
+1. I chose the Bos Taurus-cow :) 
+2. I chose the MOCS1 gene.
+3. Rank 1 target sequence is TCGGAAACCGGGGATTTTAAAGG, and it is on chromosome 23.
+4. Left primer would be CTGACACTTTAGGAGCCTTCGT with coordinates chr23:13839413-13839435, and right primer is CCCACAGAAATGCTCAGACATA	 with coordinates chr23:13839181-13839203. 
+5. Deletion of this gene could result in Arochnomelia in cows which is a skeletal disorder that affects bone development including legs, skull and spinal cord. We would see deformities in these bones. (Ciepłoch A, Rutkowska K, Oprządek J, Poławska E. Genetic disorders in beef cattle: a review. Genes Genomics. 2017;39(5):461-471. doi: 10.1007/s13258-017-0525-8. Epub 2017 Mar 3. PMID: 28458779; PMCID: PMC5387086)
