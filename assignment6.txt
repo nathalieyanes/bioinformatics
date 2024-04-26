@@ -1,6 +1,6 @@
 1. There are 15 different BRCA2 splice variants.
 2. There are 27 exons in the longest splice variant. 
-3.  There are 27 introns in the longest splice variant. 
+3.  There are 26 introns in the longest splice variant. 
 4. This gene is on chromosome 13. 
 5. The gene synonyms are BRCC2, FACD, FAD, FAD1, FANCD, FANCD1, XRCC11. 
 6. There is 1 ortholog of human BRCA2 gene found in african ostrich. 
@@ -14,7 +14,7 @@ ACTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAG
 10. On the left it's ZARIL, and on the right it is N4BP2L1. 
 11. On the left it's rnf32, and on the right it is rbm33a. 
 12. There is only 1 copy. 
-13. There is only 1 copy. 
+13. There are 4 copies.
 
 14. There are 26 genomes for the bos taurus. 
 15. 8 of these 26 genomes are sequenced at the chromosome level. 
@@ -22,7 +22,8 @@ ACTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAG
 17.Chromosome 1 is the longest one. 
 18. There are 1,115 miRNAs that are annotated. 
 19. Morimoto et al, 2020, ASC-deficiency impairs host defense against Aeromonas hydrophila infection in Japanese medaka, Oryzias latipes, Fish and Shelfish Immunology, 10.1016/j.fsi.2020.07.027
-20.  1 namkcfgapd scrwpkssng ivkvpyvvsd nyesdeketi rnamkefaek tcihfvprnn
-       61 eraylslepr fgcksmmgyv gdkqvvvlqr fgcikhaviq hellhalgfy hehtrsdrdq
-      121 hvkinwenii kdfthnfdkn dtdnlgtpyd ygsimhygrt afgkdrketi tpipnpkaai
-      181 gqtermsdid ilrvnklykc
+20.    MDLLAKASVLLLLLLSLSNAQTDNMEEAENGSSKEEIDESELED
+       VSSIIFRMNNNSMEELLEGDLVLPKTRNAMKCFGAPDSCRWPKSSNGIVKVPYVVSDN
+       YESDEKETIRNAMKEFAEKTCIHFVPRNNERAYLSLEPRFGCKSMMGYVGDKQVVVLQ
+       RFGCIKHAVIQHELLHALGFYHEHTRSDRDQHVKINWENIIKDFTHNFDKNDTDNLGT
+       PYDYGSIMHYGRTAFGKDRKETITPIPNPKAAIGQTERMSDIDILRVNKLYK
